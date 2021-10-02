@@ -1,0 +1,15 @@
+/**
+ * @param {number[][]} dungeon
+ * @return {number}
+ */
+var calculateMinimumHP = function(dungeon) {
+    
+};
+
+/*
+
+solution: https://github.com/Algorithms-Made-Easy/June-Leetcoding-Challenge/blob/master/Day-21%20Dungeon%20Game
+
+solution: https://www.youtube.com/watch?v=m1-cA3XU9fk 
+
+*/                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             
